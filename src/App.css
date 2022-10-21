@@ -1,0 +1,20 @@
+body{
+  margin-top: 2%;
+}
+.heading-top{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 5%;
+}
+.the{
+  transform:rotate(-90deg);
+  font-size:3vw;
+
+}
+.siren{
+  font-weight: bold;
+  font-size: 3.8vw;
+}
+
+
